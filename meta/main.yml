@@ -13,7 +13,7 @@ galaxy_info:
       versions:
         - 8
   galaxy_tags:
-    -  users
-    -  packages
-    -  hosts
+    - users
+    - packages
+    - hosts
 dependencies: []
